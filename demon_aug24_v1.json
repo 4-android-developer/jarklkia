@@ -1,14 +1,16 @@
 {
   "Ads": [
-       {
+    {
+      "on_off_open": "0",
       "select_ads_interstitial": "ADMOBx",
       "select_ads_banner": "ADMOBx",
       "select_ads_native": "ADMOBx",
       "status_app": "0",
       "link_redirect": "",
-      "admob_interid": "ca-app-pub-7036757467253823/5936178451",
-      "admob_nativeid": "ca-app-pub-7036757467253823/8969535900",
-      "admob_banner": "ca-app-pub-7036757467253823/7159806388",
+      "admob_interid": "ca-app-pub-7036757467253823/5204590256",
+      "admob_open": "ca-app-pub-6558353411519077/4203988793",
+      "admob_nativeid": "ca-app-pub-7036757467253823/1073773555",
+      "admob_banner": "ca-app-pub-7036757467253823/6624648983",
       "interval_intertitial": "3",
       "unityID": "4573644xx",
       "unity_inter": "Interstitial_Android",
@@ -17,7 +19,7 @@
       "applovin_banner": "affe87a8f65fb8ee",
       "applovin_inter": "5d61a7037eabdc71",
       "applovin_zone": "9f20993c3483565b",
-      "select_exit": "1",
+      "select_exit": "2",
       "on_off_category": "3",
       "on_off_more_app": "3",
       "hpk_admob1": "",
