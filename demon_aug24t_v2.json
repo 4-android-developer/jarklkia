@@ -1,6 +1,6 @@
 {
   "Ads": [
-    {
+       {
       "select_ads_interstitial": "ADMOBx",
       "select_ads_banner": "ADMOBx",
       "select_ads_native": "ADMOBx",
@@ -17,9 +17,9 @@
       "applovin_banner": "affe87a8f65fb8ee",
       "applovin_inter": "5d61a7037eabdc71",
       "applovin_zone": "9f20993c3483565b",
-      "select_exit": "2",
+      "select_exit": "1",
       "on_off_category": "3",
-      "on_off_more_app": "2",
+      "on_off_more_app": "3",
       "hpk_admob1": "",
       "hpk_admob2": "",
       "hpk_admob3": "",
